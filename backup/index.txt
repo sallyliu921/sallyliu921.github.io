@@ -44,7 +44,7 @@ My Chinese name is 刘方舟.</p>
 <li><p>Ph.D. Computer Science and Engineering, <a href="http://www.cuhk.edu.hk">The Chinese University of Hong Kong</a>,
 Aug 2023 - present</p>
 </li>
-<li><p>B.S.  VLSI Design & System Integration, School of Electronic Science and Engineering, 
+<li><p>B.Eng.  VLSI Design & System Integration, School of Electronic Science and Engineering, 
 <a href="http://www.nju.edu.cn">Nanjing University (NJU)</a>, Sept 2019 - June 2023</p>
 </li>
 </ul>
