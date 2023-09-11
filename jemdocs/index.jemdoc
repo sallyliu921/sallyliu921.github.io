@@ -24,6 +24,7 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 
 == Publication
 === Conference papers
+- \[C3\] Haisheng Zheng, Zhuolun He, *Fangzhou Liu*, Zehua Pei, Bei Yu, “LSTP: A Logic Synthesis Timing Predictor”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), South Korea, Jan. 22–25, 2024.
 - \[C2\] Zehua Pei, *Fangzhou Liu*, Zhuolun He, Guojin Chen, Haisheng Zheng, Keren Zhu, Bei Yu, “AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Francisco, Oct. 29–Nov. 02, 2023.
 - \[C1\] Siting Liu\*, Ziyi Wang\*, *Fangzhou Liu*, Yibo Lin, Bei Yu, Martin Wong, “Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023.
 
