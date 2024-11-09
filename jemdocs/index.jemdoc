@@ -25,15 +25,8 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 
 == Publication
 === Conference papers
-- \[C9\] *Fangzhou Liu*, Guannan Guo, Yuyang Ye, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, “GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
-- \[C8\] Yuan Pu, *Fangzhou Liu*, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
-- \[C7\] Xinyun Zhang, Binwu Zhu, *Fangzhou Liu*, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Disentangle, Align and Generalize: Learning A Timing Predictor from Different Technology Nodes”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024.
-- \[C6\] Yuan Pu, *Fangzhou Liu*, Yu Zhang, Zhuolun He, Kai-Yuan Chao, Yibo Lin, Bei Yu, “Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024.
-- \[C5\] *Fangzhou Liu*, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, “CBTune: Contextual Bandit Tuning for Logic Synthesis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
-- \[C4\] Yu Zhang, Yuan Pu, *Fangzhou Liu*, Peiyu Liao, Kaiyuan Chao, Keren Zhu, Yibo Lin, Bei Yu, “Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells”, ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 12–15, 2024.
-- \[C3\] Haisheng Zheng, Zhuolun He, *Fangzhou Liu*, Zehua Pei, Bei Yu, “LSTP: A Logic Synthesis Timing Predictor”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), South Korea, Jan. 22–25, 2024.
-- \[C2\] Zehua Pei, *Fangzhou Liu*, Zhuolun He, Guojin Chen, Haisheng Zheng, Keren Zhu, Bei Yu, “AlphaSyn: Logic Synthesis Optimization with Efficient Monte Carlo Tree Search”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Francisco, Oct. 29–Nov. 02, 2023.
-- \[C1\] Siting Liu\*, Ziyi Wang\*, *Fangzhou Liu*, Yibo Lin, Bei Yu, Martin Wong, “Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023.
+- \[C2\] *Fangzhou Liu*, Guannan Guo, Yuyang Ye, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, “GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
+- \[C1\] *Fangzhou Liu*, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, “CBTune: Contextual Bandit Tuning for Logic Synthesis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
 
 #Does not have temporarily, diligently!
 
