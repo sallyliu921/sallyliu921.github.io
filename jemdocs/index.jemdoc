@@ -23,10 +23,10 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 - Machine Learning in EDA
 - Logic Synthesis Optimization
 
-== Publication
+== Selected Publications
 === Conference papers
-- \[C2\] *Fangzhou Liu*, Guannan Guo, Yuyang Ye, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, “GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
-- \[C1\] *Fangzhou Liu*, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, “CBTune: Contextual Bandit Tuning for Logic Synthesis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
+- \[C2\] *Fangzhou Liu*, Guannan Guo, Yuyang Ye, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, “GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025. 
+- \[C1\] *Fangzhou Liu*, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, [https://ieeexplore.ieee.org/abstract/document/10546766 “CBTune: Contextual Bandit Tuning for Logic Synthesis”], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
 
 #Does not have temporarily, diligently!
 
