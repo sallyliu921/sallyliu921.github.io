@@ -15,7 +15,7 @@
 ~~~
 
 == Biography
-I am currently a first-year Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
+I am currently a second-year Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2023. 
 Previously, I received my B.E. in the School of Electronic Science and Engineering from [http://www.nju.edu.cn Nanjing Univeristy (NJU)] in 2023.
 
@@ -25,6 +25,10 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 
 == Publication
 === Conference papers
+- \[C9\] *Fangzhou Liu*, Guannan Guo, Yuyang Ye, Ziyi Wang, Wenjie Fu, Weihua Sheng, Bei Yu, “GraphCAD: Leveraging Graph Neural Networks for Accuracy Prediction Handling Crosstalk-affected Delays”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
+- \[C8\] Yuan Pu, *Fangzhou Liu*, Zhuolun He, Keren Zhu, Rongliang Fu, Ziyi Wang, Tsung-Yi Ho, Bei Yu, “HeLO: A Heterogeneous Logic Optimization Framework by Hierarchical Clustering and Graph Learning”, ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025.
+- \[C7\] Xinyun Zhang, Binwu Zhu, *Fangzhou Liu*, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Disentangle, Align and Generalize: Learning A Timing Predictor from Different Technology Nodes”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024.
+- \[C6\] Yuan Pu, *Fangzhou Liu*, Yu Zhang, Zhuolun He, Kai-Yuan Chao, Yibo Lin, Bei Yu, “Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 23–27, 2024.
 - \[C5\] *Fangzhou Liu*, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, “CBTune: Contextual Bandit Tuning for Logic Synthesis”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
 - \[C4\] Yu Zhang, Yuan Pu, *Fangzhou Liu*, Peiyu Liao, Kaiyuan Chao, Keren Zhu, Yibo Lin, Bei Yu, “Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells”, ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 12–15, 2024.
 - \[C3\] Haisheng Zheng, Zhuolun He, *Fangzhou Liu*, Zehua Pei, Bei Yu, “LSTP: A Logic Synthesis Timing Predictor”, IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), South Korea, Jan. 22–25, 2024.
@@ -42,12 +46,14 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 == Experience
 - Research Intern, [https://www.shlab.org.cn Shanghai Artificial Intelligence Laboratory],
 Sep 2022 - Jun 2023
+- Research Intern, Huawei Hong Kong Research Center, 2024 - Sep 2024
 
 == Teaching 
 - CENG2010, 2023-R1, Digital Logic Design Laboratory
 - CSCI1510, 2023-R2, Computer Principles and C Programming
 
 == Awards
+- 2nd Place Award, [https://www.iccad-contest.org/index.html]ICCAD contest, 2024
 - Xiakedao EDA2 Challenge Second Prize Winner, [https://xiakedao.eda2.com/competitions/0db06497-7ebe-4123-89f8-537911c1c945/overview ODC computation for clock gating], 2024
 - "KIRIN Cup" and First Place Award, [https://eda.icisc.cn/ Integrated Circuit EDA Elite Challenge], 2023
 - Postgraduate Scholarship, 	CUHK, 	2023-2027     
