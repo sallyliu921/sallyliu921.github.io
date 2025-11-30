@@ -38,6 +38,7 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 - \[C1\] Siting Liu, Ziyi Wang, *Fangzhou Liu*, Yibo Lin, Bei Yu, Martin Wong, “Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement”, ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jul. 09–13, 2023. ([pdf/C1-DAC2023-TSteiner.pdf paper])([pdf/C1-DAC2023-TSteiner-slides.pdf slides])([pdf/C1-DAC2023-TSteiner-poster.pdf poster])
 
 === Journal Papers
+- \[J3\] *Fangzhou Liu*, Wuqian Tang, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Mengjia Dai, Tinghuan Chen, Bei Yu, “CB-EVO: Contextual Bandit Tuning with Evolutionary Search for Logic Synthesis”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 - \[J2\] Xinyun Zhang, Binwu Zhu, *Fangzhou Liu*, Jiaxi Jiang, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Pre-Routing Timing Prediction Across Different Technology Nodes”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 07, pp. 2697–2710, 2025. ([pdf/J2-TCAD2025-AdaTimer.pdf paper])
 - \[J1\] Siting Liu, Ziyi Wang, *Fangzhou Liu*, Yibo Lin, Bei Yu, Martin D.F. Wong, “Sign-off Timing Considerations via Concurrent Routing Topology Optimization”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 44, no. 05, pp. 1942–1953, 2025. ([pdf/J1-TCAD2025-TSteiner.pdf paper])
 
