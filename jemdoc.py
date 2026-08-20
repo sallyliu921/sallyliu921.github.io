@@ -1605,9 +1605,12 @@ def main(args):
     # I-O
     inp_path = args.input
     if os.path.isdir(inp_path):
+        inp_dir = inp_path
         inp_files = [i for i in os.listdir(inp_path) if ('.jemdoc' in i)]
     else:
-        inp_files = [inp_path if ('.jemdoc' in inp_path) else (inp_path + '.jemdoc')]
+        inp_file = inp_path if inp_path.endswith('.jemdoc') else (inp_path + '.jemdoc')
+        inp_dir = os.path.dirname(inp_file) or '.'
+        inp_files = [os.path.basename(inp_file)]
 
     out_path = args.output
 
@@ -1616,9 +1619,9 @@ def main(args):
 
     out_files = [re.sub(r'.jemdoc$', '', i) + '.html' for i in inp_files]
     for ii, i in enumerate(inp_files):
-        infile = io.open(os.path.join(inp_path, i), 'rb')
+        infile = io.open(os.path.join(inp_dir, i), 'rb')
         outfile = io.open(os.path.join(out_path,out_files[ii]), 'w', encoding='utf-8')
-        f = controlstruct(infile=infile, outfile=outfile, conf=conf, inname=i, inppath=inp_path)
+        f = controlstruct(infile=infile, outfile=outfile, conf=conf, inname=i, inppath=inp_dir)
         procfile(f)
 
 if __name__ == '__main__':

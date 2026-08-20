@@ -25,6 +25,7 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 
 == Publications
 === Conference papers
+- \[C14\] Yuhao Ji, Siying Yu, Yunqi Shi, *Fangzhou Liu*, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, Yibo Lin, Bei Yu, “HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
 - \[C13\] *Fangzhou Liu*\*, Wuqian Tang\*, Bo-Ying Wang, An-Chieh Shen, Han-Wen Tsao, Yuyang Ye, Yun Shao, Chun-Yao Wang, Bei Yu, “HyPAS: A Hybrid Optimization Framework for Placement and Sizing Co-Optimization”, ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
 - \[C12\] Peiyi Han, Yuntao Lu, Haiyang Liu, *Fangzhou Liu*, Xufeng Yao and Yuyang Ye, "LLM4SDC: Leveraging Multi-Agent System for Automated SDC Generation and Benchmarking", ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
 - \[C11\] Ziyi Wang, *Fangzhou Liu*, Tsung-Yi Ho, David Z. Pan, Bei Yu, “NUA-Timer: Pre-Synthesis Timing Prediction Under Non-Uniform Input Arrival Times”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025. ([pdf/C11-ICCAD2025-NUATiming.pdf paper])([pdf/C11-ICCAD2025-NUATiming-slides.pdf slides])
@@ -45,6 +46,9 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 - \[J3\] *Fangzhou Liu*, Wuqian Tang, Zehua Pei, Ziyang Yu, Haisheng Zheng, Zhuolun He, Mengjia Dai, Tinghuan Chen, Bei Yu, "[https://dl.acm.org/doi/10.1145/3779431 CB-EVO: Contextual Bandit Tuning with Evolutionary Search for Logic Synthesis]", ACM Transactions on Design Automation of Electronic Systems (TODAES), vol. 31, no. 06, pp. 119:1–119:26, 2026. ([pdf/J3-TODAES2026-CB-EVO.pdf paper])
 - \[J2\] Xinyun Zhang\*, Binwu Zhu\*, *Fangzhou Liu*, Jiaxi Jiang, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “[https://ieeexplore.ieee.org/abstract/document/10816722 Pre-Routing Timing Prediction Across Different Technology Nodes]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 07, pp. 2697–2710, 2025. ([pdf/J2-TCAD2025-AdaTimer.pdf paper])
 - \[J1\] Siting Liu, Ziyi Wang, *Fangzhou Liu*, Yibo Lin, Bei Yu, Martin D.F. Wong, “[https://ieeexplore.ieee.org/abstract/document/10767352 Sign-off Timing Considerations via Concurrent Routing Topology Optimization]”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 05, pp. 1942–1953, 2025. ([pdf/J1-TCAD2025-TSteiner.pdf paper])
+
+=== Preprints
+- "SynAct: A Reasoning-Acting Large Language Model Agent for Adaptive Synthesis Optimization". ([http://arxiv.org/abs/2608.12751 arXiv])
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
