@@ -25,6 +25,7 @@ Previously, I received my B.E. in the School of Electronic Science and Engineeri
 
 == Publications
 === Conference papers
+- \[C15\] *Fangzhou Liu*, Yuhao Ji, Lancheng Zou, Jiawei Liu, Mingjun Wang, Gengjie Chen, Guannan Guo, Bei Yu, “Logic Resynthesis for Cross-Die Dependencies in Hybrid Bonded 3D ICs”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 25–28, 2027.
 - \[C14\] Yuhao Ji, Siying Yu, Yunqi Shi, *Fangzhou Liu*, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, Yibo Lin, Bei Yu, “HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, Nov. 08–12, 2026.
 - \[C13\] *Fangzhou Liu*\*, Wuqian Tang\*, Bo-Ying Wang, An-Chieh Shen, Han-Wen Tsao, Yuyang Ye, Yun Shao, Chun-Yao Wang, Bei Yu, “HyPAS: A Hybrid Optimization Framework for Placement and Sizing Co-Optimization”, ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
 - \[C12\] Peiyi Han, Yuntao Lu, Haiyang Liu, *Fangzhou Liu*, Xufeng Yao and Yuyang Ye, "LLM4SDC: Leveraging Multi-Agent System for Automated SDC Generation and Benchmarking", ACM/IEEE Design Automation Conference (DAC), Long Beach, Jul. 26–29, 2026.
